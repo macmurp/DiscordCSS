@@ -11,7 +11,6 @@
 */
 
 @import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
-@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
 
 /* BlackBox tags */
 @import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
@@ -21,7 +20,7 @@
 
 :root {
   /* Background image variables */
-  --background-image: url('https://thumbs.dreamstime.com/b/watercolor-seamless-strawberry-pattern-flowers-wild-berries-leaves-vector-background-texture-illustration-summer-cover-216492508.jpg'); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url('https://i.imgur.com/kYW2H5C.jpg'); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-image-blur: 5px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
   --background-image-size: cover; /* Size of the background image | DEFAUT: cover | OPTIONS: cover, contain */
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
@@ -63,8 +62,7 @@
     Visit https://fonts.google.com and select one to your liking.
     Now just follow this tutorial: https://imgur.com/a/CNbw7xC
   */
-  /*--font: 'Whitney';*/
-  --font: 'Dosis';
+  --font: 'Whitney';
 
   /* Do not touch */
   --update-notice-1: none;
