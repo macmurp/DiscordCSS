@@ -29,7 +29,7 @@
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
 	--settingsicons:				1;							/* Use Settings Icons in User/Server/Channel Settings: 1 = yes, 0 = no											*/
 	
-	--background:					url(https://img.freepik.com/free-vector/cute-strawberry-pattern-pastel-background_53876-114637.jpg);	/* general background image				*/
+	--background:					url(https://img.freepik.com/free-vector/cute-strawberry-pattern-pastel-background_53876-114637.jpg?w=1380&t=st=1680833027~exp=1680833627~hmac=802a32724f8717ece2f4efa93f485f7337413f1bf2793ed441322b30a9b60620);	/* general background image				*/
 	--backgroundposition:			center;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
 	--backgroundsize:				cover;						/* default: cover				(sizefit of background - values: [cover/contain/auto])							*/
 	--backgroundblur:				unset;						/* default: unset				(blur in px, only works when --background is set to an image)					*/
