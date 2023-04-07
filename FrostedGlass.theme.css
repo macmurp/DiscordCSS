@@ -21,7 +21,7 @@
 
 :root {
   /* Background image variables */
-  --background-image: url(https://rare-gallery.com/mocahbig/476641-lantern-night-cherry-blossom.jpg); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f1b0a669-5ff7-4dce-b5e6-c880a3f58061/d63uv84-54145b69-2d8c-4098-89b2-6edbc775b6e5.jpg/v1/fill/w_1131,h_707,q_70,strp/sakura__night__by_dblasphemy_d63uv84-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvZjFiMGE2NjktNWZmNy00ZGNlLWI1ZTYtYzg4MGEzZjU4MDYxXC9kNjN1djg0LTU0MTQ1YjY5LTJkOGMtNDA5OC04OWIyLTZlZGJjNzc1YjZlNS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.dquksJG4kQpnOPqA6VXWVy0dZe3-iOjX9K67O3jTzY0); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-image-blur: 5px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
   --background-image-size: cover; /* Size of the background image | DEFAUT: cover | OPTIONS: cover, contain */
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
