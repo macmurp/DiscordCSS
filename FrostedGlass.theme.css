@@ -21,7 +21,7 @@
 
 :root {
   /* Background image variables */
-  --background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/fs/8b0e5b77785467.5c91d8541f013.jpg'); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url('https://thumbs.dreamstime.com/b/watercolor-seamless-strawberry-pattern-flowers-wild-berries-leaves-vector-background-texture-illustration-summer-cover-216492508.jpg'); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-image-blur: 5px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
   --background-image-size: cover; /* Size of the background image | DEFAUT: cover | OPTIONS: cover, contain */
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
